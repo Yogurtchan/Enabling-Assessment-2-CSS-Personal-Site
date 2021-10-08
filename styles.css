@@ -16,6 +16,7 @@ h3{
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
     font-weight: 500;
+    width: 98%;
 }
 #bot{
     text-align: center;
@@ -193,7 +194,7 @@ h3{
 /*bottom section*/
 .bottom-container{
     padding: 20px;
-    height: 125px;
+    height: 130px;
     background-color: #32AFA9;
     text-align: center;
 }
