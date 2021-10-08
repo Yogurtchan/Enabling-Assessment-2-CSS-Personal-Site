@@ -3,6 +3,8 @@ html,body{
     margin:auto;
     min-width:auto;
     max-width:auto;
+    overflow-y: auto;
+    margin-bottom: 0;
 }
 h1{
     font-family: 'Raleway', sans-serif;
