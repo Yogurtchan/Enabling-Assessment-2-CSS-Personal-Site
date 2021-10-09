@@ -1,10 +1,9 @@
-html,body{
+body{
     width:auto;
     margin:auto;
     min-width:auto;
     max-width:auto;
     overflow-y: auto;
-    margin-bottom: 0;
 }
 h1{
     font-family: 'Raleway', sans-serif;
@@ -91,8 +90,8 @@ h3{
 }
 /*home section*/
 .top-container{
-    padding: 50px;
-    height: 310px;
+    padding: 65px;
+    height: 45vh;
     background-color: #f5d48c;
     text-align: center;
     vertical-align:-webkit-baseline-middle;
@@ -103,7 +102,7 @@ h3{
     padding-top: 5px;
     padding-left: 50px;
     padding-right: 50px;
-    height: 500px;
+    height: 80vh;
     background-color: #f6ffd4;
     text-align: center;
 }
@@ -112,14 +111,14 @@ h3{
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 10px;
-    height: 200px;
+    height: 45vh;
     background-color: #A4D4AE;
 }
 .int{
     padding-top: 5px;
     padding-left: 50px;
     padding-right: 50px;
-    height: 900px;
+    height: 150vh;
     background-color: #f7dba0;
     text-align: center;
 
@@ -199,7 +198,7 @@ h3{
 /*bottom section*/
 .bottom-container{
     padding: 20px;
-    height: 130px;
+    height: 20vh;
     background-color: #32AFA9;
     text-align: center;
 }
