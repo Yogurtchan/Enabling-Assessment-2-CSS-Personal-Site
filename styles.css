@@ -90,7 +90,7 @@ h3{
 }
 /*home section*/
 .top-container{
-    padding: 10vh;
+    padding: 5rem;
     height: 40vh;
     background-color: #f5d48c;
     text-align: center;
@@ -102,7 +102,7 @@ h3{
     padding-top: 5px;
     padding-left: 50px;
     padding-right: 50px;
-    height: 60vh;
+    height: 30rem;
     background-color: #f6ffd4;
     text-align: center;
 }
@@ -111,14 +111,14 @@ h3{
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 10px;
-    height: 25vh;
+    height: 15rem;
     background-color: #A4D4AE;
 }
 .int{
     padding-top: 5px;
     padding-left: 50px;
     padding-right: 50px;
-    height: 100vh;
+    height: 60rem;
     background-color: #f7dba0;
     text-align: center;
 
@@ -197,7 +197,7 @@ h3{
 }
 /*bottom section*/
 .bottom-container{
-    padding-top: 150px;
+    padding-top: 2rem;
     height: 20vh;
     background-color: #32AFA9;
     text-align: center;
